@@ -1,0 +1,156 @@
+export const reasoningAgeQuestions = [
+  {
+    id: "Q_REASON_AGE_001",
+    topicId: "CH_REASON_AGE",
+    questionText:
+      "The total of the ages of Singham, Simmba and Sooryavanshi is 94 years. What was the total of their ages two years ago?",
+    options: ["88", "85", "92", "75"],
+    correctOption: 0,
+    difficulty: "easy",
+    questionType: "age",
+    status: "active",
+  },
+  {
+    id: "Q_REASON_AGE_002",
+    topicId: "CH_REASON_AGE",
+    questionText:
+      "The total of the ages of Pathan, Kabir and Tiger is 84 years. What was the total of their ages three years ago?",
+    options: ["81", "82", "74", "75"],
+    correctOption: 2,
+    difficulty: "easy",
+    questionType: "age",
+    status: "active",
+  },
+  {
+    id: "Q_REASON_AGE_003",
+    topicId: "CH_REASON_AGE",
+    questionText:
+      "A is 3 years older than B and 3 years younger than C. B and D are twins. How many years older is C than D?",
+    options: ["3", "4", "6", "7"],
+    correctOption: 2,
+    difficulty: "easy",
+    questionType: "age",
+    status: "active",
+  },
+  {
+    id: "Q_REASON_AGE_004",
+    topicId: "CH_REASON_AGE",
+    questionText:
+      "Vibhuti Narayan is 2 years older than Angoori and 3 years younger than Happu Singh. Angoori and Anita are twins. How many years older is Happu Singh than Anita?",
+    options: ["5", "4", "6", "7"],
+    correctOption: 0,
+    difficulty: "easy",
+    questionType: "age",
+    status: "active",
+  },
+  {
+    id: "Q_REASON_AGE_005",
+    topicId: "CH_REASON_AGE",
+    questionText:
+      "An 8-year-old boy M is four times as old as his brother R. How old will M be when he is twice as old as R?",
+    options: ["12", "16", "18", "Cannot be determined"],
+    correctOption: 1,
+    difficulty: "medium",
+    questionType: "age",
+    status: "active",
+  },
+  {
+    id: "Q_REASON_AGE_006",
+    topicId: "CH_REASON_AGE",
+    questionText:
+      "A 12-year-old boy is three times as old as his brother. How old will he be when he is twice as old as his brother?",
+    options: ["14", "16", "18", "Cannot be determined"],
+    correctOption: 1,
+    difficulty: "medium",
+    questionType: "age",
+    status: "active",
+  },
+  {
+    id: "Q_REASON_AGE_007",
+    topicId: "CH_REASON_AGE",
+    questionText:
+      "One year from today, Leo will be twice as old as he was 12 years ago. How old is Leo today?",
+    options: ["20", "22", "25", "27"],
+    correctOption: 3,
+    difficulty: "medium",
+    questionType: "age",
+    status: "active",
+  },
+  {
+    id: "Q_REASON_AGE_008",
+    topicId: "CH_REASON_AGE",
+    questionText:
+      "A father says to his son, “I was of your present age when you were born.” If the father is now 36 years old, how old is the son?",
+    options: ["15", "17", "18", "21"],
+    correctOption: 2,
+    difficulty: "medium",
+    questionType: "age",
+    status: "active",
+  },
+  {
+    id: "Q_REASON_AGE_009",
+    topicId: "CH_REASON_AGE",
+    questionText:
+      "A father says to his son, “I was of your present age when you were born.” If the father is now 40 years old, how old was the son five years ago?",
+    options: ["15", "17", "18", "20"],
+    correctOption: 1,
+    difficulty: "medium",
+    questionType: "age",
+    status: "active",
+  },
+  {
+    id: "Q_REASON_AGE_010",
+    topicId: "CH_REASON_AGE",
+    questionText:
+      "A 21-year-old man is three times as old as his brother. How old is his brother?",
+    options: ["7", "8", "14", "Cannot be determined"],
+    correctOption: 0,
+    difficulty: "easy",
+    questionType: "age",
+    status: "active",
+  },
+  {
+    id: "Q_REASON_AGE_011",
+    topicId: "CH_REASON_AGE",
+    questionText:
+      "Two years ago, Rancho’s age was three times the age of Silencer. If Silencer is currently 9 years old, what is Rancho’s present age?",
+    options: ["15", "17", "21", "27"],
+    correctOption: 1,
+    difficulty: "medium",
+    questionType: "age",
+    status: "active",
+  },
+  {
+    id: "Q_REASON_AGE_012",
+    topicId: "CH_REASON_AGE",
+    questionText:
+      "Two years ago, Modi’s age was three times the age of Rahul. If Rahul is currently 30 years old, after how many years will Modi be double Rahul’s age?",
+    options: ["20", "30", "14", "15"],
+    correctOption: 3,
+    difficulty: "hard",
+    questionType: "age",
+    status: "active",
+  },
+  {
+    id: "Q_REASON_AGE_013",
+    topicId: "CH_REASON_AGE",
+    questionText:
+      "The average age of 30 employees is 16 years. If one more person is included, the average increases by 1 year. What is the age of the new person?",
+    options: ["23", "27", "47", "46"],
+    correctOption: 3,
+    difficulty: "easy",
+    questionType: "age",
+    status: "active",
+  },
+  {
+    id: "Q_REASON_AGE_014",
+    topicId: "CH_REASON_AGE",
+    questionText:
+      "The age of Tara Singh is two-thirds of Ashraf Ali’s age. If Ashraf Ali is 48 years old, what is Tara Singh’s age?",
+    options: ["32", "33", "43", "Cannot be determined"],
+    correctOption: 0,
+    difficulty: "easy",
+    questionType: "age",
+    status: "active",
+  },
+];
