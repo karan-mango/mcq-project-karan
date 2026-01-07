@@ -1,7 +1,7 @@
 import { Routes, Route } from "react-router-dom";
 import Layout from "./layout/Layout";
 import Browser from "./pages/Browser";
-import Home from "./pages/home";
+import Home from "./pages/Home";
 import Content from "./pages/Content";
 import Quiz from "./pages/Quiz";
 import QuestionBank from "./pages/QuestionBank";
